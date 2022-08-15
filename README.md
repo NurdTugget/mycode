@@ -1,6 +1,6 @@
 # mycode (Learning Advanced Ansible Stuff)
 
-Purpose of this repo is to store content, materials, notes, etc. learned in my labs
+Purpose of this repo is to store content, materials, notes, etc. learned in my labs. Also want to learn how version control with Git works.
 
 ## Getting Started
 
