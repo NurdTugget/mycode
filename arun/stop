@@ -1,0 +1,17 @@
+demo/
+└── artifacts
+    └── 68e127ed-bef7-4c70-921e-4ca787e36cfd
+        ├── command
+        ├── fact_cache
+        ├── job_events
+        │   ├── 1-9b4caa08-4033-4f20-bff6-50808b3f3108.json
+        │   ├── 2-5342e46d-69d7-4d0e-83ef-7894514b6744.json
+        │   ├── 3-d6a9c4e7-d7d7-4141-82eb-32f5676f49e2.json
+        │   ├── 4-ced96034-2295-4ba4-8975-96740480b69a.json
+        │   └── 5-888f68a1-fd23-4b6d-a0a4-e464bf312038.json
+        ├── rc
+        ├── status
+        ├── stderr
+        └── stdout
+
+4 directories, 10 files
