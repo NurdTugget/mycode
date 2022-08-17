@@ -1,0 +1,16 @@
+---
+- name: Playbook to handle users
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  tasks:
+  - name: Create new user
+    awx.awx.user:
+      username: bwayne
+      password: darknight1!
+      email: iamvengance@example.com
+      first_name: Bruce
+      last_name: Wayne
+      state: present
+      controller_config_file: "~/.tower_cli.cfg"
